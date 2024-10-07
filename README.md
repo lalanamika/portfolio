@@ -8,7 +8,7 @@
 - **Tools:** Python, Pandas, Jupyter Notebook, NLP, NLTK, Scikit-learn unsupervised learning algorithms, Streamlit
 - **Category:** Recommender system, Unsupervised learning, NLP
 - **Year:** June 2024  
-Figure 1.1 Either add flowchart or screenshot of streamlit app? Or video?
+**High Level Flowchart:** 
 ![High_Level_Flowchart](https://github.com/user-attachments/assets/f3297804-1bcb-429e-abac-cfe4222c85d4)
 
 
@@ -19,7 +19,8 @@ Constructed interactive data dashboards and visualizations in Tableau to visuali
 - **Tools:** Python, Pandas, Jupyter Notebook, Matplotlib, Tableau
 - **Category:** Data Analysis, Data Visualization, Dashboards
 - **Year:** Aug 2024  
-Figure 2.1. Snapshot From Tableau Public Dashboard – Sales performance per month
+Figure 2.1. Snapshot From Tableau Public Dashboard
+![Sales_Dash_Screenshot](https://github.com/user-attachments/assets/0d85c4bb-fac5-4053-b8af-7c70eb5531f9)
 
 
 ### Project 3 – [Big Data Wrangling with Google Books Ngrams](https://github.com/lalanamika/big-data-wrangling-google-ngrams)
