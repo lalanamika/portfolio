@@ -9,6 +9,7 @@
 - **Category:** Recommender system, Unsupervised learning, NLP
 - **Year:** June 2024  
 Figure 1.1 Either add flowchart or screenshot of streamlit app? Or video?
+![High_Level_Flowchart](https://github.com/user-attachments/assets/f3297804-1bcb-429e-abac-cfe4222c85d4)
 
 
 ### Project 2 – [Ecommerce Startup Sales and Product Performance Analysis](https://public.tableau.com/app/profile/anamika.lal/viz/Olist_ecommerce_data_analysis/Olist_Sales_And_Product_Reviews_Dash)
