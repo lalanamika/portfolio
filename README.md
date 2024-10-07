@@ -30,6 +30,7 @@ Figure 2.1. Snapshot From Tableau Public Dashboard
 - **Category:** Big Data Analysis
 - **Year:** July 2024
 
+![Flowchart](https://github.com/user-attachments/assets/147a8d14-b9f9-4e4c-8803-802760a69eca)
 
 ### Project 4 – Hotel Review Sentiment Analysis
 **Overview:** Utilized NLP to preprocess the hotel review text data, did data wrangling and feature engineering. Employed different machine learning algorithms such as KNN, Logistic Regression, Decision Tree to predict the likelihood of rating. Evaluated the model predictions using appropriate evaluation metrics and visualized the confusion matrix.
