@@ -8,7 +8,8 @@
 - **Tools:** Python, Pandas, Jupyter Notebook, NLP, NLTK, Scikit-learn unsupervised learning algorithms, Streamlit
 - **Category:** Recommender system, Unsupervised learning, NLP
 - **Year:** June 2024  
-**High Level Flowchart:** 
+**High Level Flowchart:**
+  
 ![High_Level_Flowchart](https://github.com/user-attachments/assets/f3297804-1bcb-429e-abac-cfe4222c85d4)
 
 
